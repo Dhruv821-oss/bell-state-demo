@@ -22,11 +22,13 @@ When you measure one, both collapse into the same outcome (00 or 11) — a playf
 
 🛠️ Installation
 # Clone repo
-git clone https://github.com/your-username/entangled-qubits-demo.git
-cd entangled-qubits-demo
+https://github.com/Dhruv821-oss/bell-state-demo
+
 
 # Install dependencies
 pip install qiskit
+
+
 pip install streamlit
 
 🚀 Run the App
